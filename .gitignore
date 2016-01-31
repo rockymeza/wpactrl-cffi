@@ -1,0 +1,5 @@
+wpactrl/_ffi*
+*.o
+build/
+dist/
+*.egg-info/
